@@ -22,7 +22,7 @@ openssl-dev \
 curl-dev \
 libusb-dev \
 libzip-dev \
-python-dev \
+python3-dev \
 readline-dev
 
 run git clone https://github.com/libimobiledevice/libplist.git /usr/src/libplist && \
